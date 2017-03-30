@@ -3,7 +3,7 @@
 <img src="https://github.com/kchan2209/Escape/blob/master/Escape%20Game/escape/room2.JPG">
 <img src="https://github.com/kchan2209/Escape/blob/master/Escape%20Game/escape/room3.png">
 
-<body style="background-color:powderblue;">
+<body style="color:blue;">
 
 <h1>  Objective:</h1>
 

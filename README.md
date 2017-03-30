@@ -1,5 +1,7 @@
 # Escape
 <img src="https://github.com/kchan2209/Escape/blob/master/Escape%20Game/escape/startup.png">
+<img src="https://github.com/kchan2209/Escape/blob/master/Escape%20Game/escape/room2.JPG">
+<img src="https://github.com/kchan2209/Escape/blob/master/Escape%20Game/escape/room3.png">
 
 
 <h1> Objective:<h2>
